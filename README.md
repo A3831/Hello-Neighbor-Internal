@@ -32,7 +32,7 @@ You are free to reference or reuse parts of the code as long as:
 - The full project is not redistributed
 - It is not used commercially
 
-See the LICENSE file for full details.
+See the [LICENSE](https://creativecommons.org/licenses/by-nc/4.0/deed.en) file for full details.
 
 ---
 
